@@ -7,8 +7,8 @@ echo "result can be calculated: $Result"
 
 #statements
 if [[ $RESULT -eq 15 ]]; then
-   echo "result is 15"
+   echo "sucess"
 else
-   echo "error"
+   echo "fail"
 fi
 
